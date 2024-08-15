@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module for Task 0
+"""Module for task 0
 """
 import redis
 import uuid
