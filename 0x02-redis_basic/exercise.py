@@ -1,4 +1,4 @@
-#!/usr/bin/emnv python3
+#!/usr/bin/env python3
 """Module for Task 0
 """
 import redis
